@@ -1,0 +1,10 @@
+.move-animations {
+    animation: moveAnimations 1s ease;
+}
+
+@keyframes moveAnimations {
+    0% {
+        opacity: 0;
+        transform: translateX(-100vw);
+    }
+}

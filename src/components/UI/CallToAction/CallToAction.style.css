@@ -1,0 +1,17 @@
+.call-to-action-content {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    p {
+        max-width: 380px;
+        color: var(--text-color);
+    }
+}
+
+@media(max-width: 900px) {
+    .call-to-action-content {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+}

@@ -1,0 +1,17 @@
+.title {
+    font-size: 50px;
+    font-weight: 500;
+    max-width: 500px;
+    line-height: 60px;
+    color: var(--text-color);
+}
+
+.title--total-width {
+    max-width: 100%;
+}
+
+@media (max-width: 900px) {
+    .title {
+        text-align: center;
+    }
+}
