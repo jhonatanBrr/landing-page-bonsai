@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/landing-page-bonsai/static/css/main.8d46ffc6.css",
+    "main.js": "/landing-page-bonsai/static/js/main.d71d371c.js",
+    "static/media/bonsai2.png": "/landing-page-bonsai/static/media/bonsai2.b4f1bc638523514ca3c8.png",
+    "static/media/bonsai3.png": "/landing-page-bonsai/static/media/bonsai3.90203d6d3c110aa1f4dc.png",
+    "static/media/bonsai4.png": "/landing-page-bonsai/static/media/bonsai4.aa2884015fc2b302b63c.png",
+    "static/media/bonsai1.png": "/landing-page-bonsai/static/media/bonsai1.79bc93cb913270eb82cd.png",
+    "static/media/bosque.png": "/landing-page-bonsai/static/media/bosque.3b8cf5106609862f5155.png",
+    "index.html": "/landing-page-bonsai/index.html",
+    "main.8d46ffc6.css.map": "/landing-page-bonsai/static/css/main.8d46ffc6.css.map",
+    "main.d71d371c.js.map": "/landing-page-bonsai/static/js/main.d71d371c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d46ffc6.css",
+    "static/js/main.d71d371c.js"
+  ]
+}
